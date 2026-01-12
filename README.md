@@ -1,0 +1,5 @@
+![Java](https://img.shields.io/badge/Java-17-orange)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-green)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-JWT-blue)
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
+![Maven](https://img.shields.io/badge/Build-Maven-red)
