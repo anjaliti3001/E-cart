@@ -9,16 +9,16 @@ spring:
 
     registration:
       google:
-        client-id: 835257325041-494rpj1fgaah5caenjl2emqg0s9k17r1.apps.googleusercontent.com
-        client-secret: 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
+        client-id:
+        client-secret:
       github:
-        client-id: 835257325041-494rpj1fgaah5caenjl2emqg0s9k17r1.apps.googleusercontent.com
-        client-secret: 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
+        client-id:
+        client-secret:
       twitter:
-        client-id: asdlfjasldf
-        client-secret: asldfjalsdfj
-        redirect-uri: "{baseUrl}/login/oauth2/code/twitter"
-        authorization-grant-type: authorization_code
+        client-id:
+        client-secret:
+        redirect-uri:
+        authorization-grant-type:
         scope:
           - tweet.read
           - users.read
