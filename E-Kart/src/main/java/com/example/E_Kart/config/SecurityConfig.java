@@ -50,7 +50,7 @@ public class SecurityConfig {
                 .csrf(AbstractHttpConfigurer::disable)
                 .authorizeHttpRequests(auth -> auth
                         .requestMatchers("/auth/**").permitAll()
-                        .requestMatchers("/api/products/**").permitAll()// This allows /auth/login and /auth/register
+                        .requestMatchers("/api/products/**").permitAll()
                         .anyRequest().authenticated()
 
                 )
